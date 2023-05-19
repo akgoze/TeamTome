@@ -1,0 +1,26 @@
+{
+  "name": "teamtome",
+  "version": "1.0.0",
+  "description": "Weekend NodeJS project.",
+  "main": "index.js",
+  "displayName": "TeamTome",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akgoze/TeamTome.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "MongoDB",
+    "ExpressJS",
+    "Prisma"
+  ],
+  "author": "Fatih Akgoze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akgoze/TeamTome/issues"
+  },
+  "homepage": "https://github.com/akgoze/TeamTome#readme"
+}
